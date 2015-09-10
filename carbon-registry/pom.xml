@@ -22,24 +22,6 @@
 
     <modules>
         <module>service-stubs/registry</module>
-        <module>components/registry</module>
-        <module>features/registry-core</module>
-        <module>features/content-search</module>
-        <module>features/resource-properties</module>
-        <module>features/registry-profiles</module>
-        <module>features/ws-api</module>
-        <module>features/activities</module>
-        <module>features/handler-configuration</module>
-        <module>features/associations-dependencies</module>
-        <module>features/community-features</module>
-        <module>features/registry-task</module>
-        <module>features/reporting</module>
-        <module>features/social</module>
-        <module>features/webdav</module>
-        <module>features/jcr</module>
-        <module>features/uddi</module>
-        <module>features/deployment-synchronizer</module>
-	    <module>features/caching-invalidator</module>
     </modules>
 
     <repositories>
