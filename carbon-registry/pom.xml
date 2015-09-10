@@ -14,9 +14,9 @@
     <url>http://wso2.org</url>
 
     <scm>
-        <connection>scm:git:https://github.com/wso2/carbon-registry.git</connection>
-        <developerConnection>scm:git:https://github.com/wso2/carbon-registry.git</developerConnection>
-        <url>https://github.com/wso2/carbon-registry.git</url>
+        <connection>scm:git:https://github.com/prasa7/govenance-extensions.git</connection>
+        <developerConnection>scm:git:https://github.com/prasa7/govenance-extensions.git</developerConnection>
+        <url>https://github.com/prasa7/govenance-extensions.git</url>
         <tag>HEAD</tag>
     </scm>
 
